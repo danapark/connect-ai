@@ -1,0 +1,150 @@
+# ✍️ Writer — 최종화된 시각 시스템과 코다리의 개발 로드맵에 맞춰, $49 Starter Kit를 위한 핵심 가치 정의와 랜딩 페이지 카피라이팅 초안을 최종 검토하고, 모든 요소가 완벽하게 일관되도록 수정하라.
+
+
+
+✍️ Writer: 작업 시작합니다.
+
+CEO 의 지시를 수행하여 $49 Starter Kit 를 위한 핵심 가치 정의 (Value Proposition) 와 랜딩 페이지 카피라이팅 초안을 최종 검토하고, 확정된 시각 시스템(Deep Navy Blue & Gold Accent) 과 개발 로드맵과 완벽한 일관성을 확보하는 작업을 진행하겠습니다.
+
+가장 가치 있는 단일 작업은 **"핵심 가치 정의와 랜딩 페이지 카피라이팅 초안을 시각 시스템에 맞춰 다듬고, 개발 팀이 구현하기 쉬운 형식으로 정리하여 최종 산출물을 생성하는 것"**입니다. 이를 위해 Writer 에이전트가 직접 수행할 것입니다.
+
+먼저 현재 메모리에 저장된 관련 파일들을 읽어서 내용을 확인하고, 수정점을 도출하겠습니다.
+
+<read_file path="/Users/danap/Projects/biz/connect-ai/_company/services/01_first_project/crawler/src/_company/agents/writer/sessions/2026-05-17T08-30/starter_kit_value_proposition.md"/>
+<read_file path="/Users/danap/Projects/biz/connect-ai/_company/services/01_first_project/crawler/src/_company/agents/writer/sessions/2026-05-17T08-30/starter_kit_landing_page_copy_draft.md"/>
+
+---
+## 📁 파일 액션 결과
+
+📖 읽기: ~/Projects/biz/connect-ai/_company/services/01_first_project/crawler/src/_company/agents/writer/sessions/2026-05-17T08-30/starter_kit_value_proposition.md (14줄, 1.1KB)
+```
+ 1	# 💎 $49 Starter Kit — 핵심 가치 정의 (Value Proposition)
+ 2	
+ 3	## 🎯 기본 논리
+ 4	**"시간과 비용을 아끼는 가장 확실한 방법"**
+ 5	AI 툴링은 복잡해 보이지만, 실제로 필요한 것은 '구체적인 프롬프트와 적용 예시'다. 이 스타터 키트는 초보자가 바로 쓸 수 있는 템플릿을 제공하여, 고급 AI 도구 사용자를 위한 시간 낭비를 막아준다.
+ 6	
+ 7	## 🧬 3 가지 핵심 가치 (USP)
+ 8	1.  **결과 중심의 프롬프트**: 이론이 아닌 "지금 바로 복사해서 붙여넣어라" 수준으로 구체화됨.
+ 9	2.  **산업별 최적화**: 마케팅, 디자인, 개발 등 직군별로 별도 카테고리 분할되어 있음.
+10	3.  **49 달러 = 1 시간 투자 대비 50 배 이상의 효율**: 기존에 AI 학습용으로 500달러를 썼던 예산이 이 키트 하나로 대체됨.
+...
+```
+📖 읽기: ~/Projects/biz/connect-ai/_company/services/01_first_project/crawler/src/_company/agents/writer/sessions/2026-05-17T08-30/starter_kit_landing_page_copy_draft.md (80줄, 3.0KB)
+```
+ 1	# 🌐 $49 Starter Kit — 초기 랜딩 페이지 카피라이팅 초안 (6 섹션 구조)
+ 2	
+ 3	## 1. Hero Section (상단 첫 화면)
+ 4	**Headline:**  
+ 5	당신의 아이디어를 현실로 만드는 가장 빠른 방법, 이제 시작입니다.  
+ 6	
+ 7	**Subheadline:**  
+ 8	산업별 최적화된 AI 프롬프트 템플릿과 실전 적용 가이드가 포함된 $49 Starter Kit 에 오신 것을 환영합니다. 복사해서 붙여넣기만 하면 300% 더 빠르게 결과물을 만들어보세요.  
+ 9	
+10	**CTA Button:**  
+...
+```
+
+[시스템: read_file 결과]
+파일: ~/Projects/biz/connect-ai/_company/services/01_first_project/crawler/src/_company/agents/writer/sessions/2026-05-17T08-30/starter_kit_value_proposition.md (14줄)
+```
+ 1	# 💎 $49 Starter Kit — 핵심 가치 정의 (Value Proposition)
+ 2	
+ 3	## 🎯 기본 논리
+ 4	**"시간과 비용을 아끼는 가장 확실한 방법"**
+ 5	AI 툴링은 복잡해 보이지만, 실제로 필요한 것은 '구체적인 프롬프트와 적용 예시'다. 이 스타터 키트는 초보자가 바로 쓸 수 있는 템플릿을 제공하여, 고급 AI 도구 사용자를 위한 시간 낭비를 막아준다.
+ 6	
+ 7	## 🧬 3 가지 핵심 가치 (USP)
+ 8	1.  **결과 중심의 프롬프트**: 이론이 아닌 "지금 바로 복사해서 붙여넣어라" 수준으로 구체화됨.
+ 9	2.  **산업별 최적화**: 마케팅, 디자인, 개발 등 직군별로 별도 카테고리 분할되어 있음.
+10	3.  **49 달러 = 1 시간 투자 대비 50 배 이상의 효율**: 기존에 AI 학습용으로 500달러를 썼던 예산이 이 키트 하나로 대체됨.
+11	
+12	## 🧾 가치 제안 문구 (Value Proposition Statement)
+13	> "당신의 아이디어를 현실로 만드는 가장 빠른 방법."  
+14	> $49 에 산업별 최적화된 프롬프트 템플릿과 실전 적용 가이드를 제공하며, AI 도구 사용 효율을 300% 향상시킵니다.
+```
+
+[시스템: read_file 결과]
+파일: ~/Projects/biz/connect-ai/_company/services/01_first_project/crawler/src/_company/agents/writer/sessions/2026-05-17T08-30/starter_kit_landing_page_copy_draft.md (80줄)
+```
+ 1	# 🌐 $49 Starter Kit — 초기 랜딩 페이지 카피라이팅 초안 (6 섹션 구조)
+ 2	
+ 3	## 1. Hero Section (상단 첫 화면)
+ 4	**Headline:**  
+ 5	당신의 아이디어를 현실로 만드는 가장 빠른 방법, 이제 시작입니다.  
+ 6	
+ 7	**Subheadline:**  
+ 8	산업별 최적화된 AI 프롬프트 템플릿과 실전 적용 가이드가 포함된 $49 Starter Kit 에 오신 것을 환영합니다. 복사해서 붙여넣기만 하면 300% 더 빠르게 결과물을 만들어보세요.  
+ 9	
+10	**CTA Button:**  
+11	지금 시작하기 — $49 (무료 배송 포함)  
+12	
+13	**Visual Suggestion:**  
+14	Deep Navy Blue 배경에 Gold Accent 로 "Starter Kit" 로고가 중앙 배치됨. 배경으로 흐르는 AI 생성 이미지 모자이크 (복잡함 → 단순화).
+15	
+16	---
+17	
+18	## 2. Problem Section (문제 제기)
+19	**Headline:**  
+20	AI 도구를 쓰고 있는데도 여전히 결과물이 나오지 않는다면?  
+21	
+22	**Body Copy:**  
+23	- 복잡한 프롬프트 구조를 이해하는 데 10 시간 이상 투자하셨나요?  
+24	- 고급 AI 툴을 사용하지만, 실제 적용 예시가 부족해 고민이 많으신가요?  
+25	- 마케팅/디자인/개발 등 직군별 맞춤형 솔루션을 찾지 못하십니까?  
+26	
+27	**CTA:**  
+28	이 문제를 해결하기 위한 가장 확실한 방법은 $49 Starter Kit 입니다.  
+29	
+30	---
+31	
+32	## 3. Solution Section (해결책 제시)
+33	**Headline:**  
+34	$49 에 산업별 최적화된 프롬프트 템플릿과 실전 적용 가이드를 드립니다.  
+35	
+36	**Feature 1: 복사해서 붙여넣기만 하면 되는 프롬프트**  
+37	- "이 프롬프트를 사용하시면 마케팅 캠페인 기획 시간을 50% 단축됩니다."  
+38	
+39	**Feature 2: 산업별 카테고리별 최적화**  
+40	- 마케팅, 디자인, 개발 등 직군별로 별도 템플릿 제공.  
+41	
+42	**Feature 3: 실전 적용 가이드**  
+43	- "AI 도구 사용 효율을 300% 향상시키는 3 단계 방법론"  
+44	
+45	---
+46	
+47	## 4. Social Proof Section (증거)
+48	**Headline:**  
+49	다른 고객들이 선택한 이유  
+50	
+51	**Testimonial 1:**  
+52	> "이 스타터 키트를 사용하면, AI 도구를 처음부터 공부할 필요 없이 바로 적용할 수 있습니다." — 김 O O, 마케터  
+53	
+54	**Testimonial 2:**  
+55	> "49 달러에 이런 가치를 얻을 수 있다는 건 믿기 싫었지만, 실제로는 놀라움입니다." — 이 O O, 개발자  
+56	
+57	---
+58	
+59	## 5. CTA Section (최종 행동 유도)
+60	**Headline:**  
+61	당신의 아이디어를 현실로 만드는 가장 빠른 방법, 지금 시작하세요.  
+62	
+63	**Body Copy:**  
+64	- $49 에 산업별 최적화된 프롬프트 템플릿과 실전 적용 가이드 제공  
+65	- 복사해서 붙여넣기만 하면 300% 더 빠르게 결과물을 만들어보세요  
+66	- 무료 배송 포함  
+67	
+68	**CTA Button:**  
+69	지금 구매하기 — $49 (무료 배송 포함)  
+70	
+71	---
+72	
+73	## 6. Footer Section (푸터)
+74	**Headline:**  
+75	$49 Starter Kit — 당신의 아이디어를 현실로 만드는 가장 빠른 방법  
+76	
+77	**Body Copy:**  
+78	- 복사해서 붙여넣기만 하면 300% 더 빠르게 결과물을 만들어보세요  
+79	- 무료 배송 포함  
+80	- 100% 만족 보장
+```
